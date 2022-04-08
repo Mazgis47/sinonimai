@@ -22,7 +22,7 @@ aiškus miglotas
 aklas visaregis
 aktyvus pasyvus
 amžinas laikinas
-ankstus vėlus
+ankstus vėlus;vėlyvas
 anksti vėlai
 pilnas tuščias
 apkloti nukloti
@@ -105,3 +105,6 @@ ryškiai blyškiai
 rašytinis žodinis
 žmona vyras
 didelis mažas
+anksčiau vėliau
+sūnus dukra
+mažai daug
