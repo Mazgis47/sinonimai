@@ -2,7 +2,6 @@ geras blogas
 aukštas žemas
 aukštai žemai
 ilgas trumpas
-šiltas šaltas
 juodas baltas
 kietas minkštas
 skystas tirštas
@@ -42,6 +41,7 @@ civilinis kariškas
 darbas poilsis
 darbingas neįgalus
 dažnas retas
+dažniau rečiau
 retai dažnai
 detalus bendras
 didis menkas
@@ -58,7 +58,7 @@ džiaugsmas apmaudas
 džiugus liūdnas
 erdvus ankštas
 universalus specialus
-šaltas karštas
+šaltas karštas;šiltas
 taika karas
 saldus kartus
 racionalus iracionalus
@@ -81,9 +81,12 @@ pabaiga pradžia
 vakaras rytas
 pirmas paskutinis
 greitas lėtas
+greitasis lėtasis
 greitai lėtai
 visada niekada
-lengvas sunkus
+lengvas sunkus;sudėtingas
+lengva sunku;sudėtinga
+lengvai sunkiai;sudėtingai
 dauguma mažuma
 vasara žiema
 ruduo pavasaris
@@ -108,4 +111,4 @@ didelis mažas
 anksčiau vėliau
 sūnus dukra
 mažai daug
-rečiau dažniau
+laimėti pralošti;pralaimėti
