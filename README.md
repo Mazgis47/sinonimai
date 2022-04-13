@@ -14,6 +14,6 @@ Kam norite, tam ir naudokite :)
 - Pirmas failas sudarytas naudojant [GloVe](https://github.com/stanfordnlp/GloVe). Panaudota apie 4,7 GB lietuviško teksto.
 - Antras failas - imant pirmojo failo duomenis, bandant nustatyti pagrindinę žodžio formą ir sujungiant formų sinonimus į vieną, taip pat pakeičiant formų sinonimus į pagrindinę formą.
 
-## Komentarai, Idėjos ir Palildymai
+## Komentarai, Idėjos ir Papildymai
 
-Sukurkite "Issue" diskusijai, taip pat galite kelti "Pull Request".
+Sukurkite "Issue", diskusiją, taip pat galite kelti "Pull Request".
